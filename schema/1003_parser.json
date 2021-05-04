@@ -1,0 +1,194 @@
+[
+    {
+        "name": "AmortizationType",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "BuiltYear",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "HasPrimaryBorrowerSignaturePage1",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "HasSecondaryBorrowerSignaturePage1",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "LoanAmount",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "LoanPurpose",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "LoanTerm",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "NoteRate",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "PrimaryBorrowerCurrentJobTitleYearsTerm",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "PrimaryBorrowerDateOfBirth",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "PrimaryBorrowerDependentAge",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "PrimaryBorrowerDependentCount",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "PrimaryBorrowerDependentCountAndAge",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "PrimaryBorrowerEmployerNameAndAddress",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "PrimaryBorrowerHomePhone",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "PrimaryBorrowerJobTitle",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "PrimaryBorrowerJobYearsTerm",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "PrimaryBorrowerMarrageStatus",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "PrimaryBorrowerSSN",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "PrimaryBorrowerSelfEmployedIndicator",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "PrimaryBorrowerWorkPhoneNumber",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "PropertyAddress",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "PropertyUsageType",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },  {
+        "name": "RefinanceLoanInfo",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },    {
+        "name": "RefinancePurposeType",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },    {
+        "name": "SecondaryBorrowerCurrentJobTitleYearsTerm",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },    {
+        "name": "SecondaryBorrowerDateOfBirth",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },    {
+        "name": "SecondaryBorrowerDependentAge",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },    {
+        "name": "SecondaryBorrowerDependentCount",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },    {
+        "name": "SecondaryBorrowerDependentCountAndAge",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },    {
+        "name": "SecondaryBorrowerEmployerNameAndAddress",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },    {
+        "name": "SecondaryBorrowerHomePhone",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },    {
+        "name": "SecondaryBorrowerJobTitle",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },    {
+        "name": "SecondaryBorrowerJobYearsTerm",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },    {
+        "name": "SecondaryBorrowerMarrageStatus",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },    {
+        "name": "SecondaryBorrowerName",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },    {
+        "name": "SecondaryBorrowerSSN",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },    {
+        "name": "SecondaryBorrowerSelfEmployedIndicator",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },    {
+        "name": "SecondaryBorrowerWorkPhoneNumber",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },    {
+        "name": "Units",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },    {
+        "name": "PrimaryBorrowerName",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },    {
+        "name": "MortgageType",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    }
+    
+]
