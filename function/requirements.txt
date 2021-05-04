@@ -1,0 +1,6 @@
+google-cloud-documentai
+google-cloud-bigquery
+simplejson
+googleapis-common-protos
+google-cloud-storage
+regex
