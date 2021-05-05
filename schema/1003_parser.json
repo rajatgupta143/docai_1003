@@ -1,5 +1,10 @@
 [
     {
+        "name": "fileName",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
         "name": "AmortizationType",
         "type": "STRING",
         "mode": "NULLABLE"
