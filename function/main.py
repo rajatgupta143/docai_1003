@@ -44,7 +44,7 @@ def start1003Parser(event, context):
     # For a full list of Document object attributes, please reference this page: https://googleapis.dev/python/documentai/latest/_modules/google/cloud/documentai_v1beta3/types/document.html#Document
 
     entityDict={}
-
+    entityDict["fileName"]=file_path 
     for entity in document.entities:
         entity_type = entity.type_
         if(entity.normalized_value.text!=""):
